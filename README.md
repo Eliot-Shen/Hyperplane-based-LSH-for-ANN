@@ -1,9 +1,9 @@
 # Hyperplane-based-LSH-for-ANN
-This is my final project of ANN search algorithm for Data Structures & Algorithms course in the last semester.  \
+This is my final project of ANN search algorithm for Data Structures & Algorithms course in the last semester.  
 
-I chose the local sensitive hash algorithm and got 93 points when playing the leaderboard online.        \
+I chose the local sensitive hash algorithm and got 93 points when playing the leaderboard online.        
 
-The code was written in C++. To quickly get a decent scores, my code was designed roughly and was process-oriented. Maybe I 'll update someday. \
+The code was written in C++. To quickly get a decent scores, my code was designed roughly and was process-oriented. Maybe I 'll update someday. 
 
 To understand the LSH, you can refer to my tech report as well as the material listed below.  \
 [LSH1](https://clickhouse.com/blog/approximate-nearest-neighbour-ann-with-sql-powered-local-sensitive-hashing-lsh-random-projections)
